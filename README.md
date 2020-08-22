@@ -30,28 +30,28 @@ Name: Hassan Elahi
 
 6 –  Saad Ali
 
-7 –  Name here //Do your self
+7 –  Nisar Haider
 
-8 –  Name here//Do Yourself
+8 –  Neeha Batool
 
 
 ### Friends Suggestion
 
-2- Name here
+2- Muhammad Ali
 
-3- Name here
+3- Waleed Amjad
 
-12- Name here
+12- Kamal Subhani
 
-4- Name here
+4- Burhan Tahir
 
-1- Name here
+1- Amna Arshad
 
-5- Name here
+5- Hassan Sohail
 
-10- Name here
+10- Saad Sultan
 
-9- Name here
+9- Abubakar Javed
 
 ________________________________________________________________________________________________________
 
@@ -65,16 +65,16 @@ Name:  Saif
 
 ### Friends List
 
-16- Name here
+16- Abdullah Siddiqi
 
 
 ### Friends Suggestion
 
-14- Name here
+14- Usman Usman
 
-15- Name here
+15- Zaid Tariq
 
-13- Name here
+13- Saad Ahmed
 
 ________________________________________________________________________________________________________
 
@@ -82,12 +82,12 @@ ________________________________________________________________________________
 
 ID: 19
 
-Name: //Name here
+Name: Usama Jawad
 
 
 ### Friends List
 
-18- // Name here
+18- Hashir Baig
 
 
 ### Friends Suggestion
@@ -100,7 +100,7 @@ ________________________________________________________________________________
 
 ID: 20
 
-Name: // Name Here
+Name: Haris Muneer
 
 
 ### Friends List
